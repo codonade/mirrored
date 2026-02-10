@@ -1,3 +1,3 @@
 # 🪞 Mirrored
 
-Global 🤫, reactive, and synced state.
+Global, reactive, and synced state.
