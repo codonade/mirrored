@@ -1,0 +1,19 @@
+{
+  "name": "mirrored",
+  "author": "Abdel-Rahman Shaddad",
+  "version": "0.0.0",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./out/index.d.ts",
+      "import": "./out/index.js"
+    }
+  },
+  "scripts": {
+    "dev": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}

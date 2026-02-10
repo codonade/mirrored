@@ -1,0 +1,17 @@
+{
+  "$schema": "https://biomejs.dev/schemas/2.3.14/schema.json",
+  "extends": "//",
+  "linter": {
+    "rules": {
+      "suspicious": {
+        "noUnknownAtRules": "off"
+      },
+      "nursery": {
+        "useSortedClasses": "info"
+      }
+    },
+    "domains": {
+      "react": "recommended"
+    }
+  }
+}
